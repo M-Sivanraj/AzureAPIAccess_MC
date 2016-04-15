@@ -1,0 +1,18 @@
+D:\Tasks\Monitoring Queues\POC\AzureMonitoring\AzureMonitoring\bin\Debug\AzureMonitoring.exe.config
+D:\Tasks\Monitoring Queues\POC\AzureMonitoring\AzureMonitoring\bin\Debug\AzureMonitoring.exe
+D:\Tasks\Monitoring Queues\POC\AzureMonitoring\AzureMonitoring\bin\Debug\AzureMonitoring.pdb
+D:\Tasks\Monitoring Queues\POC\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.Form1.resources
+D:\Tasks\Monitoring Queues\POC\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.Properties.Resources.resources
+D:\Tasks\Monitoring Queues\POC\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.csproj.GenerateResource.Cache
+D:\Tasks\Monitoring Queues\POC\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.exe
+D:\Tasks\Monitoring Queues\POC\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.pdb
+D:\Tasks\Monitoring Queues\POC\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.csprojResolveAssemblyReference.cache
+D:\Tasks\Monitoring Queues\Docs\Reference Application\AzureMonitoring\AzureMonitoring\bin\Debug\AzureMonitoring.exe.config
+D:\Tasks\Monitoring Queues\Docs\Reference Application\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.exe
+D:\Tasks\Monitoring Queues\Docs\Reference Application\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.pdb
+D:\Tasks\Monitoring Queues\Docs\Reference Application\AzureMonitoring\AzureMonitoring\bin\Debug\AzureMonitoring.exe
+D:\Tasks\Monitoring Queues\Docs\Reference Application\AzureMonitoring\AzureMonitoring\bin\Debug\AzureMonitoring.pdb
+D:\Tasks\Monitoring Queues\Docs\Reference Application\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.csprojResolveAssemblyReference.cache
+D:\Tasks\Monitoring Queues\Docs\Reference Application\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.Form1.resources
+D:\Tasks\Monitoring Queues\Docs\Reference Application\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.Properties.Resources.resources
+D:\Tasks\Monitoring Queues\Docs\Reference Application\AzureMonitoring\AzureMonitoring\obj\Debug\AzureMonitoring.csproj.GenerateResource.Cache
